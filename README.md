@@ -7,7 +7,7 @@ anggota kelompok :
 * Okky Nurnanda Pangestularas	21120117130056
 
 Instalasi pada Local Server:
-```bash
+```
 -Import file uts_rsbk.war ke dalam Eclipse
  -Jalankan Server Payara
   -Klik kanan pada project -> Run As -> Run on server
