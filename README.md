@@ -9,8 +9,11 @@ anggota kelompok :
 Instalasi pada Local Server:
 <blockquote>
 -Import file uts_rsbk.war ke dalam Eclipse
+ 
  -Jalankan Server Payara
+ 
   -Klik kanan pada project -> Run As -> Run on server
+ 
    -Pada browser ketik: http://localhost:8080/uts_rsbk/formsiswa.xhtml
 </blockquote>
 
