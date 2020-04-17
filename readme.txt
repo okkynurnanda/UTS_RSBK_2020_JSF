@@ -8,7 +8,7 @@ Yusuf Valent Adyatomo	21120117130046
 Okky Nurnanda Pangestularas	21120117130056
 --------------------------------------------------------------------------
 Link :
-http://ec2-52-23-251-144.compute-1.amazonaws.com:8080/
+http://ec2-52-23-251-144.compute-1.amazonaws.com:8080/uts_rsbk/
 --------------------------------------------------------------------------
 Instalasi pada Local Server
 
