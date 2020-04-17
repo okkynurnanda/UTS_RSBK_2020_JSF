@@ -7,12 +7,12 @@ anggota kelompok :
 * Okky Nurnanda Pangestularas	21120117130056
 
 Instalasi pada Local Server:
-```
+<blockquote>
 -Import file uts_rsbk.war ke dalam Eclipse
  -Jalankan Server Payara
   -Klik kanan pada project -> Run As -> Run on server
    -Pada browser ketik: http://localhost:8080/uts_rsbk/formsiswa.xhtml
-```
+</blockquote>
 
 
 ## UTS_RSBK_2020_JSF_RATNA-YUSUF-OKKY
