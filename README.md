@@ -7,8 +7,10 @@ anggota kelompok :
 * Okky Nurnanda Pangestularas	21120117130056
 
 Instalasi pada Local Server:
+
 <blockquote>
 -Import file uts_rsbk.war ke dalam Eclipse
+ 
  
  -Jalankan Server Payara
  
